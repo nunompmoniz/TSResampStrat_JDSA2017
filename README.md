@@ -5,4 +5,4 @@ In this repository you will find the code and data used to execute the experimen
 <b><u>Important:</b></u><br/>
 This code requires the use of the R package uba.<br/>
 You may install this package using the command:<br/>
-<code>install.packages(&ldquo;http://www.dcc.fc.up.pt/~rpribeiro/uba/uba_0.7.6.tar.gz&rdquo;,repos=null,dependencies=TRUE)</code>
+<code>install.packages("http://www.dcc.fc.up.pt/~rpribeiro/uba/uba_0.7.6.tar.gz"<u>m</u>,repos=null,dependencies=TRUE)</code>
